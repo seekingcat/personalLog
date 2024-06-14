@@ -184,6 +184,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 **Today's Progress**:
 
+Sections 36 and 37 of Colt's Web Developer Bootcamp, learning about Mongo and connecting with Mongoose. Learning CRUD methods with both. Dense sections, but pretty straightforward. Figuring out that you never ever truly stop reading documentation. Today was an installing and experimenting day. Looking forward to getting to tie it all in with the browser.
 
 **Thoughts**: 
 
@@ -195,7 +196,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 **Today's Progress**:
 
-
+combining mongoose and express and building a basic app to view, add, update and delete products using CRUD. Mostly review, getting used to setting up basic express apps
 
 **Thoughts**: 
 
@@ -207,6 +208,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 **Today's Progress**:
 
+Started on the massive Yelp-Camp challenge, so getting practice with setting up express, ejs, mongoose and making new schema. Progress will slow in terms of new learning as I'm now at the point where I will be practicing the skills rather than taking on new ones. Also started learning the basics of React.
 
 **Thoughts**: 
 
@@ -218,6 +220,8 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 **Today's Progress**:
 
+Finished setting up my CRUD routes for the massive campground project on Web Developer Bootcamp. Played around with a basic portfolio app using Bulma, just for a little practice with making basic projects, to refresh my CSS, animations and DOM Manipulation.
+
 **Thoughts**: 
 
 **Link(s) to work**
@@ -227,6 +231,8 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 ### Day 19: June 8, 2024
 
 **Today's Progress**:
+
+Adding EJ’s-mate and other partials to my campground project. Stuck on generating random images because source.unsplash.com no longer works. Will find workaround but that’s the joys of using online courses that can quickly become outdated.
 
 **Thoughts**: 
 
@@ -238,6 +244,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 **Today's Progress**:
 
+A slow day, stuck at a point with my campground project, so spent the day setting up some flashcards about array methods, solving some Codewars problems, watching some sql related twitch streams and going back over some basic concepts. Sometimes review days are good.
 
 **Thoughts**: 
 
@@ -245,11 +252,33 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 13: June 10, 2024
+### Day 21: June 10, 2024
+
+**Today's Progress**: 
+
+Some more work adding basic styling to the campground project on Web developer bootcamp and started learning how to handle errors in Express. Finished my 100devs homework, as a way to refresh the basics. Productive day.
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 22: June 11, 2024
+
+**Today's Progress**: More efforts on handling user errors and mongoose errors in Express, but I'm not sure that it's really sunk in. Also finished Class 3 on the basics with #100devs
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 23: June 12, 2024
 
 **Today's Progress**:
 
-
+Had to revisit that user error section on my Web Dev Bootcamp course, spent some time reading the express docs to try to get a grip on it. Completed Class 3 homework for #100devs. Today was mostly a reading day.
 
 
 **Thoughts**: 
@@ -258,10 +287,11 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 20: June 11, 2024
+### Day 24: June 13, 2024
 
 **Today's Progress**:
 
+Review day, fundamentals of css and js. Completed my 100devs homework.
 
 **Thoughts**: 
 
@@ -269,10 +299,11 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 21: June 12, 2024
+### Day 25: June 14, 2024
 
 **Today's Progress**:
 
+Quarter way there! Back to basics with some CSS and basic JS review, to make some flashcards. learned about Array.from methods and about Sets, which is useful for shallow copies of arrays with unique items, i.e. items that don't repeat in the array.
 
 **Thoughts**: 
 
@@ -280,39 +311,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 22: June 13, 2024
-
-**Today's Progress**:
-
-
-**Thoughts**: 
-
-**Link(s) to work**
-
-1. <https://github.com/seekingcat>
-
-### Day 23: June 14, 2024
-
-**Today's Progress**:
-
-
-**Thoughts**: 
-
-**Link(s) to work**
-
-1. <https://github.com/seekingcat>
-
-### Day 24: June 15, 2024
-
-**Today's Progress**:
-
-
-**Thoughts**: 
-
-**Link(s) to work**
-
-1. <https://github.com/seekingcat>
-### Day 13: June 16, 2024
+### Day 26: June 15, 2024
 
 **Today's Progress**:
 
@@ -323,7 +322,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 13: June 17, 2024
+### Day 27: June 16, 2024
 
 **Today's Progress**:
 
@@ -334,7 +333,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 25: June 18, 2024
+### Day 28: June 17, 2024
 
 **Today's Progress**:
 
@@ -345,7 +344,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 26: June 19, 2024
+### Day 29: June 18, 2024
 
 **Today's Progress**:
 
@@ -356,7 +355,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 27: June 20, 2024
+### Day 30: June 19, 2024
 
 **Today's Progress**:
 
@@ -367,7 +366,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 28: June 21, 2024
+### Day 31: June 20, 2024
 
 **Today's Progress**:
 
@@ -378,7 +377,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 29: June 22, 2024
+### Day 32: June 21, 2024
 
 **Today's Progress**:
 
@@ -389,7 +388,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 30: June 23, 2024
+### Day 33: June 22, 2024
 
 **Today's Progress**:
 
@@ -400,7 +399,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 31: June 24, 2024
+### Day 34: June 23, 2024
 
 **Today's Progress**:
 
@@ -411,7 +410,63 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 32: June 25, 2024
+### Day 35: June 24, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 36: June 25, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 37: June 26, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 38: June 27, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 39: June 28, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+
+### Day 40: June 29, 2024
 
 **Today's Progress**:
 
