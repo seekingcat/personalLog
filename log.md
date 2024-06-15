@@ -314,7 +314,7 @@ Quarter way there! Back to basics with some CSS and basic JS review, to make som
 ### Day 26: June 15, 2024
 
 **Today's Progress**:
-
+Completed Class 5 and my layout homework for #100devs. Completing JS Crash Course for Beginners, as a refresh of basic JS concepts
 
 **Thoughts**: 
 
