@@ -324,10 +324,11 @@ Completed Class 5 and my layout homework for #100devs. Completing JS Crash Cours
 
 ### Day 27: June 16, 2024
 
-**Today's Progress**:
+**Today's Progress**: 
 
+Completed Class 6 exercises and started reading Shay Howe Advanced HTML.
 
-**Thoughts**: 
+**Thoughts**: It seems folly to have gone all the way back to the beginning but I'm actually really glad that I have a cohort of sorts to go through this information and that it feels as if there's a class that's going through it together. I'm understanding things better, not just running through the basics and having only a shallow understanding of the material. The repetition and practice is consolidating the material in my understanding and I'm happy to actually slow the pace. I'll get back to Express and Mongoose soon enough, but it was starting to feel as if I was filling my head with advanced material when I hadn't even mastered the basics.
 
 **Link(s) to work**
 
