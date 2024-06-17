@@ -338,6 +338,7 @@ Completed Class 6 exercises and started reading Shay Howe Advanced HTML.
 
 **Today's Progress**:
 
+Revisited the basics of responsive web design. This is a slow day in terms of coding, so I was just able to do some anki and watch a bit of my #100devs Class 7, but it really was a day off as I spent most of the day in the reading for the TV show that I'm filming in a week's time. I will be looking back to my Udemy course tomorrow and completing Shay Howe Advanced including revision cards so I can make sure I keep up with what I've already learned and not lose sight of it.
 
 **Thoughts**: 
 
