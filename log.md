@@ -361,8 +361,9 @@ Revisited the basics of responsive web design. This is a slow day in terms of co
 
 **Today's Progress**:
 
+Revisiting writing my own middleware, error handling, status codes, writing custom error messages and handling client and server side errors. Started learning Flexbox.
 
-**Thoughts**: 
+**Thoughts**
 
 **Link(s) to work**
 
