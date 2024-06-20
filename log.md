@@ -373,6 +373,7 @@ Revisiting writing my own middleware, error handling, status codes, writing cust
 
 **Today's Progress**:
 
+Completed Class 7 of #100Devs and revisited Flexbox. Started making notes on transformations in Shay Howe. Looked at increasing my network in the development spaces. Short coding day, but tidied up the bits and bobs that needed to be done.
 
 **Thoughts**: 
 
