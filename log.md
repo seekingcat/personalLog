@@ -384,7 +384,7 @@ Completed Class 7 of #100Devs and revisited Flexbox. Started making notes on tra
 ### Day 32: June 21, 2024
 
 **Today's Progress**:
-
+Class 8 homework for #100Devs, 3 layouts and sarted levelground. Revisited Class 8 video. Still working on including img file in yelp camp project. Flexbox short course and flexbox Froggy, and fcc flexbox tutorial.
 
 **Thoughts**: 
 
