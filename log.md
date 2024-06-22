@@ -392,12 +392,13 @@ Class 8 homework for #100Devs, 3 layouts and sarted levelground. Revisited Class
 
 1. <https://github.com/seekingcat>
 
-### Day 33: June 22, 2024
-
 **Today's Progress**:
 
+### Day 33: June 22, 2024
+Worked on Level Ground layout for #100Devs. Moved through the networking videos because I'm not sure that's the route I'm ready to take, given I'm already working.
 
-**Thoughts**: 
+**Thoughts**:
+It's amazing that I had gone all the way forward with Express and Mongo but find it challenging to put together a simple site layout using only floats. It's very frustrating to realise how much of the basics I had skimmed over, hoping that the knowledge was somehow lodged in my brain, without going back and actively recall and work on the simplest layouts to make things work. I have to do more work on this.
 
 **Link(s) to work**
 
