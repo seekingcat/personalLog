@@ -441,8 +441,13 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 **Today's Progress**:
 
+* Did JS exercise in Exercism
+* Continued watching Traversy Media Intro to JS Crash Course
+* Some flexbox practice
+* Completed all Layout homework for #100devs Class 08
+* Made Brainscape cards for some flexbox terminology
 
-**Thoughts**: 
+**Thoughts**: I was happy to have come to the end of all of my 100devs layout homework, having spent a number of days working on them. I implemented them using both pure CSS and flexbox and was even able to add in some media queries into the mix in some of my layouts too. Worked on some exercism exercises and was really stumped for a bit on some very simple arithmetic. I still feel an enormous amount of trepidation when thinking of myself as a software developer, but I believe if I take the time, and really just solidify and consolidate the learning that I'm doing that at least I can know something new in a way that is useful to others. And that's what I would like to do. I don't know what problems I would like to be able to solve just yet, but I want to be able to bring a sense of fun and possibility to learning, even if it's for the sake of learning. And to bring that to anyone, regardless of age.
 
 **Link(s) to work**
 
