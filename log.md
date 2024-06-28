@@ -468,8 +468,13 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 **Today's Progress**:
 
+* Class 12 video 100Devs
+* Read Modern JS tutorial chapters on variables, functions, function expressions and arrow functions. Did exercises
+* Read The JS Way Intro, variables and conditions chapter.
+* One 8Kyu kata in Codewars
+* JS course on Codeacademy
 
-**Thoughts**: 
+**Thoughts**: Even though I'm 7kyu on Codewars I tried to do a 7kyu kata and was completely stumped. That sucked a bit because I was reveling in the fact that I'm at that part of JS where I understand what's going on, but turns out at the moment logic still eludes me. But I'm happy with my progress today and look forward to what I'll learn tomorrow.
 
 **Link(s) to work**
 
