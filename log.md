@@ -485,8 +485,12 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 **Today's Progress**:
 
+* Frontend Mentor QR code exercise - still need to do drop shadow
+* Eloquent JS - chapter 2
+* Codeacademy JS course - Functions
+* practiced writing switch statements and doing exercises from the books
 
-**Thoughts**: 
+**Thoughts**: No codewars today, but did challenge myself to do a little styling. Giving myself a rest today as the weather is nice and it's time to go outside. Easy day today but still feeling quite accomplished
 
 **Link(s) to work**
 
