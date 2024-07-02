@@ -522,11 +522,18 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day 43: August 2, 2024
 
 **Today's Progress**:
 
-**Thoughts**:
+- Freecodecamp CSS basic - building color markers
+- Javascript.info exercises in Codepen
+- Four chapters of Javascript.info
+- Codeacademy Javascript - variable scopes
+- Eloquent Javascript - Loops
+- Brainscape CSS revision
+
+**Thoughts**: Trying to be a bit more systematic and wondering if I'm just spinning around in the same place with the same basic informaiton. However, I think that's no bad thing, because I really feel like I should have this really securely in my mind. I'm starting to get confused with even basic loops so I'm not sure that I'm thinking about them clearly. When I get bogged down, I know it's time to stop.
 
 **Link(s) to work**
 
