@@ -539,11 +539,15 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day 44: August , 2024
 
 **Today's Progress**:
 
-**Thoughts**:
+- Modern JS Bootcamp - data types
+- JS Way exercises
+- Eloquent JS exercises
+
+**Thoughts**: It was a heavy thinking day today with me trying to slowly figure out the JS exercises provided. I'm really taking my time to make sure that I know what I'm doing and why I'm doing it. Which means that this time around it's much slower going, but I think I want deep knowledge rather than fast or wide knowledge this time around. Happy with the work today, even though there was not a lot of volume.
 
 **Link(s) to work**
 
