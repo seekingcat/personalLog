@@ -506,7 +506,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day 42: August 1, 2024
+### Day 42: July 1, 2024
 
 **Today's Progress**:
 
@@ -522,7 +522,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day 43: August 2, 2024
+### Day 43: July 2, 2024
 
 **Today's Progress**:
 
@@ -539,7 +539,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day 44: August , 2024
+### Day 44: July 3, 2024
 
 **Today's Progress**:
 
@@ -553,7 +553,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day 45: July 4, 2024
 
 **Today's Progress**:
 
@@ -563,7 +563,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day 46: July 5, 2024
 
 **Today's Progress**:
 
@@ -573,7 +573,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 6, 2024
 
 **Today's Progress**:
 
@@ -583,7 +583,33 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day 47: July 7, 2024
+
+- Pushwork layout
+- JS homework
+
+**Today's Progress**: Had trouble going over the JS homework, in particular trying to grab an input's value before the click action
+
+**Thoughts**:
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 48: July 8, 2024
+
+**Today's Progress**:
+
+- 100Devs Class 15
+- Class 14 Javascript homework, functions, conditionals, variables
+
+**Thoughts**: The video today was about getting clients so it was less about coding and more about making money via coding. I don't think I need this right now, but I think I can put this on hold until after I'm done with this current contract.
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 49: July 9, 2024
 
 **Today's Progress**:
 
@@ -593,7 +619,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day 50: July 10, 2024
 
 **Today's Progress**:
 
@@ -603,7 +629,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 11, 2024
 
 **Today's Progress**:
 
@@ -613,7 +639,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 12, 2024
 
 **Today's Progress**:
 
@@ -623,7 +649,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 13, 2024
 
 **Today's Progress**:
 
@@ -633,7 +659,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 14, 2024
 
 **Today's Progress**:
 
@@ -643,7 +669,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 15, 2024
 
 **Today's Progress**:
 
@@ -653,7 +679,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 16, 2024
 
 **Today's Progress**:
 
@@ -663,7 +689,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 17, 2024
 
 **Today's Progress**:
 
@@ -673,7 +699,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 18, 2024
 
 **Today's Progress**:
 
@@ -683,7 +709,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 19, 2024
 
 **Today's Progress**:
 
@@ -693,7 +719,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 20, 2024
 
 **Today's Progress**:
 
@@ -703,7 +729,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 21, 2024
 
 **Today's Progress**:
 
@@ -713,7 +739,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 22, 2024
 
 **Today's Progress**:
 
@@ -723,7 +749,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 23, 2024
 
 **Today's Progress**:
 
@@ -733,7 +759,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 24, 2024
 
 **Today's Progress**:
 
@@ -743,7 +769,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 25, 2024
 
 **Today's Progress**:
 
@@ -753,7 +779,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 26, 2024
 
 **Today's Progress**:
 
@@ -763,7 +789,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 27, 2024
 
 **Today's Progress**:
 
@@ -773,7 +799,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 28, 2024
 
 **Today's Progress**:
 
@@ -783,7 +809,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 29, 2024
 
 **Today's Progress**:
 
@@ -793,7 +819,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 30, 2024
 
 **Today's Progress**:
 
@@ -803,7 +829,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : July 31, 2024
 
 **Today's Progress**:
 
@@ -813,7 +839,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : August 1, 2024
 
 **Today's Progress**:
 
@@ -823,7 +849,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : August 2, 2024
 
 **Today's Progress**:
 
@@ -833,7 +859,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : August 3, 2024
 
 **Today's Progress**:
 
@@ -843,7 +869,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : August 4, 2024
 
 **Today's Progress**:
 
@@ -853,7 +879,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : August 5, 2024
 
 **Today's Progress**:
 
@@ -863,7 +889,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : August 6, 2024
 
 **Today's Progress**:
 
@@ -873,7 +899,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : August 7, 2024
 
 **Today's Progress**:
 
@@ -883,7 +909,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : August 8, 2024
 
 **Today's Progress**:
 
@@ -893,7 +919,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : August 9, 2024
 
 **Today's Progress**:
 
@@ -903,7 +929,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : August 10, 2024
 
 **Today's Progress**:
 
@@ -913,7 +939,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : August 11, 2024
 
 **Today's Progress**:
 
@@ -923,7 +949,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : August 12, 2024
 
 **Today's Progress**:
 
@@ -933,7 +959,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
+### Day : August 13, 2024
 
 **Today's Progress**:
 
@@ -943,27 +969,7 @@ It's amazing that I had gone all the way forward with Express and Mongo but find
 
 1. <https://github.com/seekingcat>
 
-### Day : August , 2024
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s) to work**
-
-1. <https://github.com/seekingcat>
-
-### Day : August , 2024
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s) to work**
-
-1. <https://github.com/seekingcat>
-
-### Day : August , 2024
+### Day : August 14, 2024
 
 **Today's Progress**:
 
